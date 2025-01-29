@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToDoContextAPI/static/css/main.36659611.css",
+    "main.js": "/ToDoContextAPI/static/js/main.e08e50ab.js",
+    "index.html": "/ToDoContextAPI/index.html",
+    "main.36659611.css.map": "/ToDoContextAPI/static/css/main.36659611.css.map",
+    "main.e08e50ab.js.map": "/ToDoContextAPI/static/js/main.e08e50ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36659611.css",
+    "static/js/main.e08e50ab.js"
+  ]
+}
